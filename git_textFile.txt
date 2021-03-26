@@ -2,3 +2,8 @@
 This is a text file to be modified as necessary
 ###
 
+This is modification #1
+----------------------------------------------------
+
+I am learning so much about Git and gitHub!
+
